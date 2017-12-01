@@ -1,4 +1,4 @@
-* 日期范围，可选择昨天及最近60天
+* 日期范围，只可选择昨天及最近60天  
 el-date-picker type="daterange"
 
 ```
