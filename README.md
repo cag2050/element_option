@@ -8,3 +8,11 @@ pickerOptions1: {
     }
 }
 ```
+
+* 让 el-tree 出现滚动条。加入样式
+```
+.el-tree-node>.el-tree-node__children {
+    overflow: inherit;
+    background-color: transparent;
+}
+```
