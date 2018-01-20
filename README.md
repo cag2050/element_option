@@ -9,7 +9,9 @@ pickerOptions1: {
 }
 ```
 
-* 让 el-tree 出现滚动条。加入样式
+* 让 el-tree 出现滚动条。  
+出处：https://github.com/ElemeFE/element/issues/4456  
+加入样式：  
 ```
 .el-tree-node>.el-tree-node__children {
     overflow: inherit;
